@@ -1,6 +1,6 @@
 # bug反馈使用说明
 
-反馈入口：打开 issues > new issue
+反馈入口：打开 Issues > new issue
 
 1. 粘贴or上传问题截图
 2. 附加问题说明
