@@ -1,5 +1,7 @@
 # bug反馈使用说明
 
+反馈入口：打开 issues > new issue
+
 1. 粘贴or上传问题截图
 2. 附加问题说明
 3. 选择问题类型![image](https://user-images.githubusercontent.com/1272280/176991785-c112aa00-0a75-4bc5-91b2-c6c7b129b756.png)
